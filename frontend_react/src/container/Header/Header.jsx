@@ -34,9 +34,9 @@ const Header = () => {
           </div>
 
           <div className="tag-cmp app__flex">
-          <p className="p-text"> Computer Science Graduate</p>
-          <p className="p-text"> Aspiring Software Engineer</p>
-          <a href="https://drive.google.com/file/d/1Cvqc09Ovtkik6bNbusy8dMnl96Enor2h/view?usp=sharing" className="resume-link p-text" target="_blank" rel="noopener noreferrer">View My Resume</a>
+          <p className="p-text"> Software Engineer </p>
+          <p className="p-text"> M.S. in Computer Science (In Progress) </p>
+          <a href="https://drive.google.com/file/d/1PfrwU4Qn2nOTeep4Mfmue6vB0UyzixPy/view?usp=sharing" className="resume-link p-text" target="_blank" rel="noopener noreferrer">View My Resume</a>
           </div>
         </div>
       </motion.div>
