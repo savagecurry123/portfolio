@@ -19,24 +19,17 @@ import sass from '../assets/sass.png';
 import spring from '../assets/springboot.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import Csharp from '../assets/csharp.png';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
-
-import profile from '../assets/profile.png';
-import profile2 from '../assets/persontest.png';
-import circle from '../assets/circle.svg';
 import logo from '../assets/test.png';
 
-import adidas from '../assets/adidas.png';
-import amazon from '../assets/amazon.png';
-import asus from '../assets/asus.png';
-import bolt from '../assets/bolt.png';
-import nb from '../assets/nb.png';
-import skype from '../assets/skype.png';
-import spotify from '../assets/spotify.png';
+import profile2 from '../assets/persontest.png';
+import updatedProfile from '../assets/updatedProfilePic.png';
+import circle from '../assets/circle.svg';
 
 export default {
   email,
@@ -63,16 +56,10 @@ export default {
   about02,
   about03,
   about04,
-  profile,
   profile2,
+  updatedProfile,
   circle,
-  logo,
-  adidas,
-  amazon,
-  asus,
-  bolt,
-  nb,
-  skype,
-  spotify,
-  spring
+  spring,
+  logo, // logo top left
+  Csharp
 };
